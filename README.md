@@ -22,8 +22,11 @@ Second year student of Sampad Amirkabir Mashhad High School, network and softwar
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![npm](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
-
+![npm](https://img.shields.io/badge/npm-pink?style=for-the-badge&logo=npm)
+![php](https://img.shields.io/badge/php-136df2.svg?style=for-the-badge&logo=php&logoColor=white)
+![laravel](https://img.shields.io/badge/laravel-f21313.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![react](https://img.shields.io/badge/react-13b7f2.svg?style=for-the-badge&logo=react&logoColor=white)
+![express](https://img.shields.io/badge/express-82f213.svg?style=for-the-badge&logo=express&logoColor=black)
 <br>
 <h2>☎️ Contact Me :</h2>
 <a href="https://github.com/Salek68/">
