@@ -1,7 +1,7 @@
 <h2 align="center">Hello 👋 I'm  saleh keshavarz 👨‍💻</h2>
 <h3 align="center">back-end and Front-end Developer</h3>
 <p align="center">
-Second year student of Sampad Amirkabir Mashhad High School, network and software specialist. I am an intermediate frontend developer and a junior backend developer 🌐.
+3rd year student of Sampad Amirkabir Mashhad conservatory, specialist in network and software. I am an intermediate front-end developer and a junior back-end developer 🌐
 </p>
 <br/>
 <h2>🎓 Skills and Tools:</h2>
